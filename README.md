@@ -1,24 +1,15 @@
-# demo-cypress
+# First class Cypress
+
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run cypress
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+npm run cypress:open
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Cypress Documentation
+See [Docs](https://docs.cypress.io/).
